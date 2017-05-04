@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 ting_text_editor.py
+Icon=/usr/share/icons/Mint-X/apps/96/wine-notepad.svg
+Name=Ting
+GenericName=Text Editor
+Categories=Accessories;
